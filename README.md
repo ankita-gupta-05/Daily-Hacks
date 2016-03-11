@@ -7,7 +7,7 @@ This program opens a youtube video every 1 hour while you are busy working in of
 
 Prank_a_friend.py
 
-This program lets you decrypt a hidden message in form of images by removing the numbers from the file names.
+This program lets you decrypt a hidden message in form of images by removing the numbers from the thousand or more file names in a folder.
 
 draw_turtle.py
 
