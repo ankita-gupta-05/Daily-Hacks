@@ -11,5 +11,5 @@ This program lets you decrypt a hidden message in form of images by removing the
 
 draw_turtle.py
 
-This program lets a small turtle to draw a nice design square cum circle design.
+This program lets a small turtle to draw a nice square cum circle design.
 
