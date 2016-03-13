@@ -3,7 +3,7 @@ Some Python Programs for Daily tasks.
 
 Take_break.py
 
-This program opens a youtube video every 1 hour while you are busy working in office to remind you of your your fav song. :P
+This program opens a youtube video every 1 hour while you are busy working in office to remind you of your fav song. :P
 
 Prank_a_friend.py
 
